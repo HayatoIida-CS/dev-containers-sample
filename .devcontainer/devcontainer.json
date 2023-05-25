@@ -40,7 +40,10 @@
             "esbenp.prettier-vscode", // Prettier
             "streetsidesoftware.code-spell-checker", // Spell Checker
             "wayou.vscode-todo-highlight", // Todo Highlight
-            "stylelint.vscode-stylelint" // CSS Style Lint
+            "stylelint.vscode-stylelint", // CSS Style Lint
+            "donjayamanne.githistory", // Git History
+            "mhutchie.git-graph" // Git Graph
+
         ]
       }
     }
