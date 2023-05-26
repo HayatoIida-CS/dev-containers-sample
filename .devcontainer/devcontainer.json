@@ -22,17 +22,6 @@
 	// Configure tool-specific properties.
   "customizations": {
 	  "vscode": {
-      "settings": {
-          "editor.codeActionsOnSave": {
-              "source.fixAll.eslint": true,
-              "source.fixAll.stylelint": true
-          },
-          "editor.formatOnSave": true,
-          "editor.tabSize": 2,
-          "editor.defaultFormatter": "dbaeumer.vscode-eslint",
-          "stylelint.validate": ["scss"],
-          "stylelint.stylelintPath": "node_modules/stylelint"
-      },
       "extensions": [
           "dbaeumer.vscode-eslint", // ESLint
           "editorconfig.editorconfig", // Editor Config
