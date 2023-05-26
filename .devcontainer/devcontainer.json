@@ -14,7 +14,7 @@
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// This can be used to network with other containers or with the host.
-	"forwardPorts": [5173, 5432, 8080],
+	"forwardPorts": [3000, 5173, 5432, 8080],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
 	"postCreateCommand": "yarn install && yarn dev",
